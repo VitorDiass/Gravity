@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch erlang",
+            "type": "erlang",
+            "request": "launch",
+            "cwd": "${workspaceRoot}"
+        }
+    ]
+}
